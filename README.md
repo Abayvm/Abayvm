@@ -5,7 +5,6 @@
 <p align="center">
 <a href="https://twitter.com/abay_v_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abay_v_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abay v m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abay v m" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abay-v-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abay-v-m" height="30" width="40" /></a>
 <a href="https://instagram.com/_abay_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abay_v" height="30" width="40" /></a>
 </p>
 
