@@ -11,7 +11,7 @@
 
 
 
-- 📫 Mail me **abayvmuraleedharan@gmail.com**
+- 📫📧 Mail me **abayvmuraleedharan@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
 
