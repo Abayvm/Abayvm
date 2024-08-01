@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abay</h1>
+<h1 align="center">Hey, I'm Abay</h1>
 <div class="center">
   <img alt="Coding" width="80%" height="40%" src="https://media.licdn.com/dms/image/D4E12AQHMwHvVheaaxQ/article-cover_image-shrink_600_2000/0/1681294904480?e=2147483647&v=beta&t=v1t0sHj2nWxTqR233E5oyfssCBgUd3VaObaagofsRnY">
 </div>
