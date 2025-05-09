@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="300px">
-      <img src="https://avatars.githubusercontent.com/u/26015573?v=4" width="250px" height="300px"/>
+      <img src="https://avatars.githubusercontent.com/u/26015573?v=4" width="250px"/>
     </td>
     <td>
 
